@@ -1,11 +1,7 @@
-# DataScience-dog-breed-identification
-Description of the project included in the main ipynb file.
-
-
-🐶 End-to-end Multil-class Dog Breed Classification
+# 🐶 End-to-end Multil-class Dog Breed Classification
 This notebook builds an end-to-end multi-class image classifier using TensorFlow 2.0 and TensorFlow Hub.
 
-1. Problem
+## 1. Problem
 Identifying the breed of a dog given an image of a dog.
 
 When I'm sitting at the cafe and I take a photo of a dog, I want to know what breed of dog it is.
